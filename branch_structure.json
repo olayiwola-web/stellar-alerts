@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "fix/issue-568-150-pts-database-payment-table-txhash-unique",
+    "origin"
+  ],
+  "parent": {
+    "contribution": null,
+    "fix/issue-568-150-pts-database-payment-table-txhash-unique": "contribution",
+    "origin": "contribution"
+  },
+  "order": [
+    "contribution",
+    "fix/issue-568-150-pts-database-payment-table-txhash-unique",
+    "origin"
+  ]
+}
